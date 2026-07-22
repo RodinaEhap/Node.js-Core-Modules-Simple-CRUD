@@ -6,15 +6,15 @@
     "email": "rodina@example.com"
   },
   {
-    "id": 2,
-    "name": "Lama",
-    "age": 21,
-    "email": "Lama@example.com"
-  }
-  ,{
     "id": 3,
     "name": "mary",
     "age": 22,
     "email": "mary@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Manar",
+    "age": 20,
+    "email": "Manar@example.com"
   }
 ]
